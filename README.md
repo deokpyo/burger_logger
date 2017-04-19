@@ -1,4 +1,4 @@
-# Burger Logger application using Node & Express & Handlebars #
+# Burger logger app using Node & Express & Handlebars #
 ### Overview ###
 
 **Eat-Da-Burger!** is a restaurant app that lets users input the names of burgers they'd like to eat. This application is built with **MySQL**, **Node**, **Express**, **Handlebars**, **ORM** and **MVC design pattern**. Node and MySQL are used to query and route data, and Handlebars to render HTML pages.
